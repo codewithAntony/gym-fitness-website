@@ -12,13 +12,13 @@ export const testimonialsData = [
   },
   {
     image: image2,
-    review: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi ipsam, ab itaque nam perferendis impedit sint ',
-    name: 'JOHN KEVIN',
+    review: ' I have gained alot of experience and fitness, to help me coach my football team to back-to-back highschool titles. This is after I joined Fitclub Gym,  ',
+    name: 'KEVIN NYAGA',
     status: 'COACH'
   },
   {
     image : image3,
-    review:' Lorem ipsum dolor sit, amet consectetur adipisicing elit. Minima aspernatur quod voluptatem',
+    review:" Before I joined Fitclub, I was so overweight and honestly I didn't feel confidence in myself because of how big I had become, but the trainers in this gym have really helped me to lose weight. I highly recommend Fitclub gym to everyone.",
     name: 'FRANKLIN',
     status: "CUSTOMER"
   }
